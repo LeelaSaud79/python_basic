@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/break.iml" filepath="$PROJECT_DIR$/.idea/break.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../range/.idea/range.iml" filepath="$PROJECT_DIR$/../range/.idea/range.iml" />
+    </modules>
+  </component>
+</project>
