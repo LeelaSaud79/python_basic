@@ -1,0 +1,16 @@
+import turtle
+s = turtle.Turtle()
+t = turtle.Screen()
+t.bgcolor("white")
+s.speed(4)
+s.hideturtle()
+s.width(2)
+for i in range(150):
+    s.color("blue","green")
+    s.begin_fill()
+    s.circle(150-i/2,90)
+    s.lt(90)
+    s.color("red")
+    s.circle(150-i/2,90)
+    s.lt(120)
+t.exitonclick()
